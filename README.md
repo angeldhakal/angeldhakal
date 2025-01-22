@@ -2,7 +2,6 @@
   <h1>👋 Hi, I'm Andy</h1>
   <p>
     <img src="https://img.shields.io/badge/-Software%20Engineer-333333?style=flat&logo=computer" />
-<!--     <img src="https://komarev.com/ghpvc/?username=andy4747&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> -->
   </p>
 </div>
 
@@ -13,12 +12,12 @@ I'm a passionate Software Engineer who loves building innovative solutions and c
 ## 💻 Tech Stack
 
 ```text
-Languages:        Go, Elixir, JavaScript, Python, Java
-Frontend:         React.js, Next.js, HTML5, CSS3
-Backend:          Node.js, Django, Phoenix, Go
+Languages:        Go, JavaScript, TypeScript, Python, Java, C
+Frontend:         JS/TS, React.js, Next.js, HTML5, CSS3
+Backend:          Go, Node.js
 Databases:        PostgreSQL, Redis
 Cloud & DevOps:   AWS, Docker, CI/CD, Terraform
-Tools:            Git, VSCode, Postman, Linux
+Tools:            Git, Vim, Postman, Linux, Tmux
 ```
 
 ## 📊 GitHub Stats
@@ -44,6 +43,9 @@ Tools:            Git, VSCode, Postman, Linux
 ## 📫 Connect With Me
 
 <p>
+  <a href="https://codeangel.tech/">
+    <img src="https://img.shields.io/badge/codeangel.tech-0055Bf?style=for-the-badge&logo=codeangel.tech&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/angeldhakal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
