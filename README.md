@@ -20,13 +20,6 @@ Cloud & DevOps:   AWS, Docker, CI/CD, Terraform
 Tools:            Git, Vim, Postman, Linux, Tmux
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andy4747&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andy4747&theme=dark" alt="GitHub Streak" />
-</div>
-
 ## 🌟 Featured Projects
 
 - **[Pong Mania]** - Experience the nostalgia of the original pong arcade game! Challenge your friends in this classic two-player game.
