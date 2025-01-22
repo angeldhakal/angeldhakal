@@ -13,7 +13,7 @@ I'm a passionate Software Engineer who loves building innovative solutions and c
 
 ```text
 Languages:        Go, JavaScript, TypeScript, Python, Java, C
-Frontend:         JS/TS, React.js, Next.js, HTML5, CSS3
+Frontend:         JS/TS, React.js, Next.js, HTML5, CSS3, Tailwind CSS
 Backend:          Go, Node.js
 Databases:        PostgreSQL, Redis
 Cloud & DevOps:   AWS, Docker, CI/CD, Terraform
