@@ -47,12 +47,6 @@ Tools:            Git, Vim, Postman, Linux, Tmux
   </a>
 </p>
 
-## 📌 Fun Facts
-
-- ⚡ I love contributing to open-source projects
-- 🎮 When not coding, I enjoy [long drive, working on cars]
-- 📚 Always reading about new technologies
-
 ---
 
 <div align="center">
